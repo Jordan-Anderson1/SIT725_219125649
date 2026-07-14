@@ -1,0 +1,194 @@
+{
+	"id": "38f0e864-6792-4c94-a94a-37dcf46afdbf",
+	"name": "SIT725",
+	"timestamp": "2026-07-14T04:47:51.369Z",
+	"collection_id": "40486154-00ca403e-0c0c-4baa-b883-0419db299177",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 12,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-07-14T04:47:51.184Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "8150217c-a651-4e99-977e-9b905db813d6",
+			"name": "ADD 2 NUMBERS",
+			"url": "http://localhost:3000/api/add?a=2&b=10",
+			"time": 3,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is OK": true,
+				"Response body is not empty": true,
+				"Response is a number": true
+			},
+			"testPassFailCounts": {
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response is a number": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				3
+			],
+			"allTests": [
+				{
+					"Status code is OK": true,
+					"Response body is not empty": true,
+					"Response is a number": true
+				}
+			]
+		},
+		{
+			"id": "dabb07b0-c530-4b08-8dfc-6677a807a18e",
+			"name": "SUBTRACT NUMBER",
+			"url": "http://localhost:3000/api/subtract?a=2&b=10",
+			"time": 2,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is OK": true,
+				"Response body is not empty": true,
+				"Response is a number": true
+			},
+			"testPassFailCounts": {
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response is a number": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				2
+			],
+			"allTests": [
+				{
+					"Status code is OK": true,
+					"Response body is not empty": true,
+					"Response is a number": true
+				}
+			]
+		},
+		{
+			"id": "06e2943f-b865-4580-87fd-752e7a8c5d6f",
+			"name": "MULTIPLY 2 NUMBERS",
+			"url": "http://localhost:3000/api/multiply?a=10&b=-1",
+			"time": 2,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is OK": true,
+				"Response body is not empty": true,
+				"Response is a number": true
+			},
+			"testPassFailCounts": {
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response is a number": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				2
+			],
+			"allTests": [
+				{
+					"Status code is OK": true,
+					"Response body is not empty": true,
+					"Response is a number": true
+				}
+			]
+		},
+		{
+			"id": "a6c870c6-18b4-4267-a26b-3cca49682985",
+			"name": "DIVIDE 2 NUMBERS",
+			"url": "http://localhost:3000/api/divide?a=200&b=5",
+			"time": 2,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is OK": true,
+				"Response body is not empty": true,
+				"Response is a number": true
+			},
+			"testPassFailCounts": {
+				"Status code is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body is not empty": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response is a number": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				2
+			],
+			"allTests": [
+				{
+					"Status code is OK": true,
+					"Response body is not empty": true,
+					"Response is a number": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 9,
+	"collection": {
+		"requests": [
+			{
+				"id": "8150217c-a651-4e99-977e-9b905db813d6",
+				"method": "GET"
+			},
+			{
+				"id": "dabb07b0-c530-4b08-8dfc-6677a807a18e",
+				"method": "GET"
+			},
+			{
+				"id": "06e2943f-b865-4580-87fd-752e7a8c5d6f",
+				"method": "GET"
+			},
+			{
+				"id": "a6c870c6-18b4-4267-a26b-3cca49682985",
+				"method": "GET"
+			}
+		]
+	}
+}
