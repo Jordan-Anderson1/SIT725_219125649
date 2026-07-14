@@ -1,0 +1,18 @@
+GET http://localhost:3000/api/add?a=2&b=8
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2026-07-14T141630.200.json
+
+###
+
+GET http://localhost:3000/api/add?a=2&b=8
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2026-07-14T141540.200.json
+
+###
+

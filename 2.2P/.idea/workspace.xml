@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d40d67d0-5f08-4349-8aff-a10668200086" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../1.1P/basicApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1.1P/basicApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jordan-Anderson1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jordan-Anderson1/SIT725_219125649.git",
+    "accountId": "5b2928f2-5917-4c39-9921-bfc47a63ef9e"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000251983000454" />
+      <entry key="S5" value="1.0188208360981497" />
+      <entry key="S10" value="1.311387100207695" />
+      <entry key="S30" value="4.327536460051429" />
+      <entry key="S60" value="7.808420160357453" />
+      <entry key="M2" value="13.789257266256708" />
+      <entry key="M5" value="31.327173030284094" />
+      <entry key="M10" value="50.79535233562133" />
+      <entry key="M15" value="62.36745381379735" />
+      <entry key="M30" value="78.830341116336" />
+      <entry key="H1" value="89.71459908941561" />
+      <entry key="H2" value="96.02043496449835" />
+      <entry key="H4" value="99.42087595134682" />
+      <entry key="D1" value="102.39060818552046" />
+      <entry key="W1" value="102.91262258730875" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.511254070491358E-90" />
+      <entry key="MS500" value="1.3516350879866723E-18" />
+      <entry key="S2" value="3.4096898209633204E-5" />
+      <entry key="S5" value="0.016347378305846334" />
+      <entry key="S10" value="0.13149500779816303" />
+      <entry key="S30" value="0.6582627989758906" />
+      <entry key="S60" value="1.1057645454950005" />
+      <entry key="M2" value="1.5598734528841862" />
+      <entry key="M5" value="2.529474594310385" />
+      <entry key="M10" value="3.5412850886716507" />
+      <entry key="M15" value="4.113195246069198" />
+      <entry key="M30" value="4.896673843973101" />
+      <entry key="H1" value="5.399357732229891" />
+      <entry key="H2" value="5.686052546224108" />
+      <entry key="H4" value="5.83942759317557" />
+      <entry key="D1" value="5.972720811459284" />
+      <entry key="W1" value="5.99609007615847" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.02468879099573053" />
+      <entry key="MS500" value="0.47697977527377905" />
+      <entry key="S2" value="0.8311004757846295" />
+      <entry key="S5" value="0.9624429937866595" />
+      <entry key="S10" value="1.3959733009006685" />
+      <entry key="S30" value="4.940719039787983" />
+      <entry key="S60" value="8.876686984141804" />
+      <entry key="M2" value="15.319040112408535" />
+      <entry key="M5" value="33.82944085804876" />
+      <entry key="M10" value="54.31354018183619" />
+      <entry key="M15" value="66.46131052920498" />
+      <entry key="M30" value="83.71447262168029" />
+      <entry key="H1" value="95.10671928425998" />
+      <entry key="H2" value="101.70258640368056" />
+      <entry key="H4" value="105.25827654163527" />
+      <entry key="D1" value="108.36298000668087" />
+      <entry key="W1" value="108.90866252717564" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GThkdtX1kr9P643vpzCMder5gj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.All in rest-api.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/jordan/SIT725_219125649/2.2P",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="All in rest-api" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in rest-api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.All in rest-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d40d67d0-5f08-4349-8aff-a10668200086" name="Changes" comment="" />
+      <created>1781601713618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781601713618</updated>
+      <workItem from="1781601713619" duration="352000" />
+      <workItem from="1784001611712" duration="2230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
